@@ -583,6 +583,11 @@ python -m pip install dask[complete]
 python -m pip install gunicorn
 
 
+python -m pip install kombu
+python -m pip install mock
+python -m pip install networkx
+python -m pip install isoweek
+
 #install the PYODBC driver for SQL Server
 # See full Install Instructions in https://docs.microsoft.com/en-us/sql/connect/python/pyodbc/step-1-configure-development-environment-for-pyodbc-python-development
 # download and install this - I think that this can be replaced with the chocolatey package
