@@ -401,7 +401,7 @@ Add-EnvVarIfNotPresent "VS90COMNTOOLS" $newVSpath
 # Install Python 3.7
 # Todo need to check what version of Python 3 is installed
 # Python for windows changed the default install path. This forces it back to the old path for package compatibility
-choco install python --version=3.7.6 --params "/InstallDir:C:\Python37" -y
+choco install python --version=3.7.5 --params "/InstallDir:C:\Python37" -y --force
 # Update the path variables to facilitate using Pip and Pip3 to install Python packages
 Add-EnvExtension '.PY'
 Add-EnvExtension '.PYW'
