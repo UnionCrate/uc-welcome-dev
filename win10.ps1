@@ -350,6 +350,9 @@ choco install lunacy -y
 # Install Zeplin UX Design App 
 choco install zeplin -y
 
+# Filezilla FTP client
+choco install filezilla -y
+
 # MySQL Related items
 choco install mysql.workbench -y
 choco install mysql-odbc -y
