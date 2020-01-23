@@ -335,9 +335,6 @@ choco install tailblazer -y
 # Install Pycharm Professional - IDE for Python
 choco install pycharm -y
 
-# Install Microsoft OneNote free note taking application
-choco install onenote -y
-
 # Install Microsoft Office 365 Busineess Desktop
 choco install office365business -y
 
