@@ -335,6 +335,9 @@ choco install tailblazer -y
 # Install Pycharm Professional - IDE for Python
 choco install pycharm -y
 
+# Install Pycharm Community Edition
+# choco install pycharm-community -y
+
 # Install Microsoft Office 365 Busineess Desktop
 choco install office365business -y
 
@@ -345,7 +348,7 @@ choco install slack -y
 choco install lunacy -y
 
 # Install Zeplin UX Design App 
-choco install zeplin -y
+#choco install zeplin -y
 
 # Filezilla FTP client
 choco install filezilla -y
