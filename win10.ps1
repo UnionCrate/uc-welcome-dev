@@ -377,7 +377,7 @@ choco install visualstudio2019buildtools -y
 choco install visualcppbuildtools -y
 choco install visualstudio2019community -y 
 # Python Tools for Visual Studio
-choco install visualstudio2019-workload-python -y
+#choco install visualstudio2019-workload-python -y
 choco install visualstudio2019-workload-azurebuildtools -y
 # Tool for building .Net Console Applications
 choco install visualstudio2019-workload-manageddesktop -y
