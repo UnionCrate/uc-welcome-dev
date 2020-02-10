@@ -311,6 +311,9 @@ Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Hyper-V -All -n
 # Install Keeper Security Desktop App
 choco install keeper -y
 
+# Install Pritunl VPN Client
+choco install pritunl-client -y
+
 #Install Azure PowerShell Tools
 Install-Module -Name Az -AllowClobber -Force
 
